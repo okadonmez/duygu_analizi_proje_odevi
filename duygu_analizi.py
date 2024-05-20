@@ -7,7 +7,7 @@ import numpy as np
 from keras.models import model_from_json
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyDrfSlMcKVzSDMscjrKOmzHzHk4spXuupM")
+genai.configure(api_key="")
 
 model_names = [
     'gemini-pro',
