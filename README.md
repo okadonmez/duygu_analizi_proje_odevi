@@ -1,6 +1,4 @@
-# Oğuz Kağan DÖNMEZ
-
-# 203405025
+# Oğuz Kağan DÖNMEZ - 203405025
 
 
 * Bu proje, Python programlama dili kullanılarak geliştirilen, gerçek zamanlı duygu analizi ve kişiselleştirilmiş öneri sistemi sunan yenilikçi bir masaüstü uygulamasıdır. Proje kapsamında OpenCV, Keras, TensorFlow, PyQt5 ve GeminiAPI gibi ileri teknoloji araçları entegre edilmiştir. OpenCV kütüphanesi, webcam aracılığıyla yüz algılama ve görüntü işleme görevlerini yerine getirerek kullanıcıdan alınan görsel verileri işler. Keras ve TensorFlow kütüphaneleri, derin öğrenme modelleri kullanarak duygu tanıma işlemlerini gerçekleştirir ve bu sayede kullanıcı yüz ifadeleri nötr, mutlu, üzgün, korkmuş, şaşkın, tiksinmiş ve öfkeli olarak sınıflandırılır. Bu model, geniş veri setleri üzerinde eğitilmiş olup yüksek doğruluk oranlarına sahiptir.
